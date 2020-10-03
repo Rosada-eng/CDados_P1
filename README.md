@@ -1,2 +1,10 @@
 # CDados_P1
-Repositório para o Projeto 1 de Ciência dos Dados
+Projeto 1 da disciplina de Ciência dos Dados, do curso de Engenharia do Insper.
+
+Realizado pelos alunos:
+- Camila Buzin Ladeira
+- Guilherme Rosada
+
+Sob orientação da professora Maria Kelly Venezuela
+
+Setembro de 2020.
